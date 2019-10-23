@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Contacts>
+<contacts>
 	<!-- pay attention to the international characters:
 	  1/ use the "encoding" attribute with "utf-8" value
 	  2/ save an xml file in utf-8 format
@@ -22,4 +22,14 @@
 		<phone type="work">6660611</phone>
 		<notes>my best friend</notes>
 	</contact>
-</Contacts>
+	<contact>
+		<name>Wojciech</name>
+		<name>Jakub</name>
+		<surname>Trygar</surname>
+		<email type="personal">chandelier.wt@gmail.com</email>
+		<email type="business">wojciech.trygar@gmail.com</email>
+		<phone type="home">1234567</phone>
+		<phone type="work">9876543</phone>
+		<notes>me</notes>
+	</contact>
+</contacts>

@@ -1,0 +1,42 @@
+<films>
+	<film>
+		<title>Terminator: Dark Fate</title>
+		<genre>Akcja</genre>
+		<year>2019</year>
+		<personal_rating>8</personal_rating>
+		<director>Tim Miller</director>
+		<actors>Arnold Schwarzenegger</actors>
+	</film>
+    <film>
+		<title>300</title>
+		<genre>Dramat historyczny</genre>
+		<year>2006</year>
+		<personal_rating>9</personal_rating>
+		<director>Zack Snyder</director>
+		<actors>Gerard Butler</actors>
+	</film>
+    <film>
+		<title>Gladiator</title>
+		<genre>Dramat historyczny</genre>
+		<year>2000</year>
+		<personal_rating>10</personal_rating>
+		<director>Ridley Scott</director>
+		<actors>Russel Crowe</actors>
+	</film>
+    <film>
+		<title>I, Robot</title>
+		<genre>Thriller</genre>
+		<year>2004</year>
+		<personal_rating>10</personal_rating>
+		<director>Alex Proyas</director>
+		<actors>Will Smith</actors>
+	</film>
+    <film>
+		<title>Alladin</title>
+		<genre>Musical</genre>
+		<year>2019</year>
+		<personal_rating>8</personal_rating>
+		<director>Guy Ritchie</director>
+		<actors>Will Smith</actors>
+	</film>
+</films>
